@@ -1,10 +1,6 @@
-# Flutter Hive Todo App
-## ToDo App using Flutter implemented with Hive DataBase 
-
-### [Watch on YouTube](https://youtu.be/RQlhC_rDrsc)
-[![Main](https://img.youtube.com/vi/RQlhC_rDrsc/0.jpg)](https://www.youtube.com/watch?v=RQlhC_rDrsc)
-
-#### Thanks For supporting❤!
+Flutter Hive Todo App
+## Hackathon Task: Todo Task Management Mobile App
+#### This project is a part of a hackathon run by https://www.katomaran.com
 
 <div class="row">
   <div class="column">
@@ -28,12 +24,4 @@
  
 
 
-## Links
-### Support Me
-<a href="https://www.buymeacoffee.com/AmirBayat"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-### Socials
-<p align="left"> 
-<a href="http://www.instagram.com/codewithflexz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="https://www.youtube.com/c/ProgrammingWithFlexZ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
-<a href="https://znap.link/CodeWithFlexz" target="_blank" rel="noreferrer"><img src="https://uploads-ssl.webflow.com/6026bc921eff07d61a132750/602843b7b4409e5ea0cbcc1c_social-logo-2.png" width="32" height="32" /></a>
-</p>
+
