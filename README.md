@@ -1,4 +1,3 @@
-Flutter Hive Todo App
 ## Hackathon Task: Todo Task Management Mobile App
 #### This project is a part of a hackathon run by https://www.katomaran.com
 
